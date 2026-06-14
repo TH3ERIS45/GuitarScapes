@@ -193,9 +193,3 @@ python -m pytest tests/ -v
 - Ambientes ruidosos podem afetar a precisão
 - Acordes com barra podem ter menor confiança
 - GPU com OpenGL 3.3+ é necessária para renderização
-
----
-
-## 📄 Licença
-
-MIT License
