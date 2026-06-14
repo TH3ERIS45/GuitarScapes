@@ -1,7 +1,5 @@
 # 🎸 GuitarScapes Pro
 
-> Transforme acordes de violão em paisagens visuais vivas e emocionais, em tempo real.
-
 GuitarScapes Pro captura o som do seu violão via microfone ou interface de áudio, reconhece os acordes tocados com alta precisão e transforma cada acorde em um cenário visual imersivo renderizado com OpenGL — tudo com latência inferior a 100ms e renderização a 60 FPS.
 
 ---
