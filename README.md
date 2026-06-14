@@ -74,9 +74,9 @@ Microfone → Pré-processamento → FFT → HPCP → Template Matching (Top 3)
 ## 📋 Requisitos
 
 - **Python** 3.12+
-- **OpenGL** 3.3+ (maioria dos computadores desde 2012)
+- **OpenGL** 3.3+ 
 - **Microfone** ou interface de áudio
-- **Sistema Operacional**: Windows 10+, Linux (X11/Wayland), macOS 10.15+
+- **Sistema Operacional**: Windows 10+, Linux, macOS 10.15+
 
 ### Dependências de Sistema (Linux)
 
@@ -196,24 +196,6 @@ python -m pytest tests/ -v
 
 ---
 
-## 🗺️ Roadmap Futuro
-
-- [ ] Gravação de sessão e replay visual
-- [ ] Mais cenários visuais (oceano, espaço, cidade noturna)
-- [ ] Suporte a afinações alternativas
-- [ ] Detecção de progressões de acordes
-- [ ] Treinamento com dataset real de áudio de violão
-- [ ] Interface de configuração completa
-- [ ] Exportação de vídeo dos visuais
-- [ ] Suporte a MIDI
-- [ ] Plugins VST/AU
-
----
-
 ## 📄 Licença
 
 MIT License
-
----
-
-*Toque seu violão e veja a música ganhar vida.* 🎶
